@@ -28,7 +28,7 @@ import java.util.Map;
 @Controller
 public class ControllerServlet {
 
-  //你是什么牛马
+  //你是什么人才
     @Autowired
     private EmpDy empDy;
     @Autowired
